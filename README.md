@@ -1,5 +1,9 @@
 ## Hi there 👋
+Meu nome é Danieldias007
 
+. Estou estudando na Alura
+. Estou me desenvolvendo na linguagem JavaScript
+. Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 <!--
 **Danieldias007/Danieldias007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
